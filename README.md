@@ -1,1 +1,1 @@
-work is fun on monnday
+Your destiny is not your destination
