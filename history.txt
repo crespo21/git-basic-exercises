@@ -1,0 +1,720 @@
+    1  sudo apt chromium browser
+    2  sudo apt snapd
+    3  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    4  google-chrome-stable_current_amd64.deb
+    5  gdebi
+    6  google-chrome-stable_current_amd64.deb
+    7  sudo apt-get install gdebi
+    8  google-chrome-stable_current_amd64.deb
+    9  sudo chmod -R 775 google-chrome-stable_current_amd64.deb 
+   10  reboot
+   11  sudo apt install snapd
+   12  sudo snap install code --classic
+   13  apt-get update && apt-get upgrade
+   14  123456r
+   15  apt-get install default-jdk
+   16  ls
+   17  pw
+   18  pwd
+   19  ls pwd workspace
+   20  ls workspace
+   21  workspace
+   22  mkdir workspace
+   23  cd workspace
+   24  ls
+   25  touch README.md
+   26  cp REASDME.md
+   27  cp README.md
+   28  cp README.md CHANGELOG.md
+   29  ls
+   30  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   31  tar -zxvf ideaIC-*.tar.gz
+   32  cd idea-*/bin/
+   33  sh idea.sh
+   34  ls
+   35  pwd
+   36  mkdir workspace
+   37  cd
+   38  ls
+   39  touch  README.md
+   40  cp README.md
+   41  cp README.md CHANGELOG.md
+   42  ls
+   43  pwd
+   44  mkdir workspace
+   45  cd workspace/myNewDir
+   46  cd workspace
+   47  ls
+   48  touch exercise.md
+   49  mv exercise.md /tmp
+   50  ls
+   51  pwd
+   52  rm /tmp/exercise.md
+   53  cd/tmp
+   54  cd /tmp
+   55  ls
+   56  mkdir workspace
+   57  cd ~
+   58  cd workspace
+   59  rm /tmp/exercise.md
+   60  cat umuzi.md
+   61  cat > umuzi.md
+   62  ls
+   63  cd workspace/
+   64  ls
+   65  touch umuzi.md
+   66  touch recruit.md
+   67  touch cohort.md
+   68  cat > umuzi.md
+   69  cat > cohort.md
+   70  cat umuzi.md recruit.md cohort.md 
+   71  echo "hi" > recruit.md
+   72  cat recruit.md
+   73  echo "The organization that changed my life" > umuzi.md 
+   74  cat umuzi.md
+   75  echo "A life changing organization" > umuzi.md
+   76  echo "with their helpful recruits" > recruits.md
+   77  echo "and them  great cohort leaders" > cohort.md
+   78  cat > umuzi.md recruits.md cohort.md 
+   79  cat umuzi.md
+   80  pwd
+   81  rm /workspace/umuzi.md
+   82  ls
+   83  rm recruit.md
+   84  rm recruits.md
+   85  rm umuzi.md
+   86  rm cohort.md
+   87  ls
+   88  pwd
+   89  rm umuzi.md
+   90  touch umuzi.md recruits.md cohort.md 
+   91  ls
+   92  cd worksspace
+   93  cd workspace
+   94  vi umuzi.md
+   95  ls
+   96  vi recruits.md
+   97  vim cohort.md
+   98  sudo apt install vim 
+   99  vim cohort.md
+  100  cat umuzi.md recruits.md cohort.md
+  101  cat umuzi.md recruits.md cohort.md>>>summary.md
+  102  cat umuzi.md recruits.md cohort.md>>> summary.md
+  103  cat umuzi.md recruits.md cohort.md>> summary.md
+  104  echo 'The end' >> summary.md
+  105  cat summary.md
+  106  ls
+  107  pwd
+  108  cd workspace
+  109  ls
+  110  rm cohort.md recruits.md umuzi.md
+  111  ls
+  112  pwd
+  113  rm summary.md
+  114  ls
+  115  echo umuzi.md
+  116  ls
+  117  pwd
+  118  ls /workspace
+  119  rm umuzi.md
+  120  ls umuzi.md
+  121  touch umuzi.md 
+  122  touch recruits.md
+  123  touch cohort.md
+  124  vim umuzi.md
+  125  vim recruits.md
+  126  vim  cohort.md
+  127  echo "umuzi.md"
+  128  ls
+  129  cat umuzi.md
+  130  cat cohort
+  131  cat cohort.md
+  132  cat > umuzi.md
+  133  cat umuzi.md
+  134  rm workspace
+  135  ls
+  136  mkdir workspace
+  137  cd workspace
+  138  ls
+  139  touch README.md
+  140  ls
+  141  cp README.md CHANGELOG.md
+  142  ls
+  143  recruit@admin1-ThinkCentre-M72e:~/workspace$ touch README.md
+  144  recruit@admin1-ThinkCentre-M72e:~/workspace$ ls
+  145  README.md
+  146  touch exercise.md
+  147  ls
+  148  mv exercis.md /tmp
+  149  mv exercise.md /tmp
+  150  ls
+  151  ls /tmp
+  152  rm exercise.md /tmp
+  153  rm /tmp/exercise.md
+  154  ls /tmp
+  155  echo "Howdy," > umuzi.md
+  156  ls
+  157  ls /umuzi.md
+  158  ls umuzi.md
+  159  touch umuzi.md recruits.md cohort.md
+  160  vim umuzi.md
+  161  vim recruits.md
+  162  vim cohort.md
+  163  cat umuzi.md recruits.md cohort.md
+  164  echo umuzi.md recruits.md cohort.md >> summary.md
+  165  ls summary,md
+  166  ls summary.md
+  167  cat summary.md
+  168  mv umuzi.md recruits.md cohort.md /workspace
+  169  ls umuzi.md
+  170  pwd umuzi.md
+  171  cat umuzi.md recruits.md cohort.md >> summary
+  172  cat summary
+  173  echo "The End" >> summary.md
+  174  ls summary.md
+  175  cat summary
+  176  cat summary.md
+  177  rm -rf summary
+  178  rm -rf summary.md
+  179  cat umuzi.md recruits.md cohort.md >> summary.md
+  180  cat summary.md
+  181  echo "The End" >> summary.md
+  182  cat summary.md
+  183  /home/tecmint/LAMP-Setup.odt
+  184  rf ~
+  185  cd ~
+  186  /home/tecmint/LAMP-Setup.odt
+  187  /home/tecmint/LAMP-Setup.od/umuzi
+  188  cd workspace
+  189  sudo apt locate
+  190  locate umuzi.md
+  191  grep "umuzi.md" 
+  192  search "umuzi.md"
+  193  search -s [umuzi.md] 
+  194  gre -w "umuzi.md" workspace
+  195  grep w "umuzi.md" workspace
+  196  cd workspace
+  197  grep -w "umuzi.md"
+  198  cd workspace
+  199  locate umuzi
+  200  grep -w 'umuzi' search_results.md
+  201  grep -w 'umuzi' search_results.m
+  202  grep -w 'umuzi'
+  203  search umuzi
+  204  search [umuzi] -w
+  205  search -i "umuzi"
+  206  search [umuzi [-c]
+  207  search [umuzi] [-c]
+  208  cd workspace
+  209  locate umuzi > search_results.md
+  210  cat search_results.md
+  211  cat
+  212  touch pad.md /documents
+  213  cd workspace
+  214  cd ~
+  215  cd Documents
+  216  touch pad.md
+  217  ls
+  218  cp pad.md /workspace
+  219  cp pad.mad pad_copy.md 
+  220  cp pad.md pad_copy.md
+  221  ls
+  222  rm pad_copy 
+  223  rm -rf pad_copy.md
+  224  ls
+  225  cd ~
+  226  cd Desktop
+  227  mkdir work
+  228  ls
+  229  cp pad.md pad_copy.md
+  230  cd ~
+  231  cd Documents
+  232  cd ~
+  233  cd Desktop
+  234  pwd
+  235  cd ~
+  236  cd Documents
+  237  cp pad.md pad_copy.md
+  238  ls
+  239  mv pad_copy.md /home/recruit/Desktop
+  240  cd ~
+  241  cd Desktop
+  242  ls
+  243  locate updatedb
+  244  cd -
+  245  locate c ~
+  246  sudo snap install gmail-desktop
+  247  sudo snap install VLC
+  248  ls
+  249  cd Desktop
+  250  ls
+  251  rm -rf pad_copy.md
+  252  ls
+  253  mv task2.png /1st project
+  254  mv task2.png 1st project
+  255  ls
+  256  cp ~/Documents/pad.md pad_copy.md 
+  257  ls
+  258  locate updatedb
+  259  cd -
+  260  cd ~
+  261  cd Desktop
+  262  cd ~
+  263  cd Documents
+  264  cd ~
+  265  cd Documents
+  266  cd -
+  267  loacte pad_copy.md
+  268  locate pad_copy.md
+  269  ls | grep pdf
+  270  ls
+  271  locate pdf
+  272  locate .pdf
+  273  locate .pdf >> pdf_results.md
+  274  cat pdf_results.md
+  275  find -newer file
+  276  find -newer
+  277  newer cd ~
+  278  -newer cd ~
+  279  cat . 
+  280  cat ~
+  281  find . -maxdepth 1 newermt "2020-01-16"
+  282  find . -maxdepth 1 -newermt "2020-01-16"
+  283  find -iname '*.pdf'
+  284  find -iname '.pdf'
+  285  find -iname *.pdf
+  286  cp *.pdf folderchioce
+  287  cp *.pdf >> foldrchoice
+  288  cp *.pdf >> ~ pdfDoc
+  289  cat pdfDoc
+  290  find -iname *.pdf 
+  291  touch folderchoice.md 
+  292  ls
+  293  cp *.pdf ~/foldechoice.md
+  294  cd ~
+  295  ls
+  296  cd Desktop
+  297  cp ~/Documents/*.pdf
+  298  cp ~Documents/*.pdf
+  299  cd ~
+  300  find . -type d -exec ./script.sh {}\;
+  301  find -iname *.pdf
+  302  Find /home/recruit/Documnet/files -name  "*.pdf"  -exec cp {} /home/recruit/Desktop\;
+  303  find /home/recruit/Documnet/files -name  "*.pdf"  -exec cp {} /home/recruit/Desktop\;
+  304  Desktop
+  305  cd Desktop
+  306  ls
+  307  cd ~
+  308  find /home/recruit/Documents -name  "*.pdf"  -exe cp {} /home/recruit/Downloads\;
+  309  cd Downloads
+  310  ls
+  311  find /home/recruit/Documents -name  "*.pdf"  -exe cp {} /home/recruit/Downloads \;
+  312  cd ~
+  313  find -iname *.pdf 
+  314  find ./Documents/ -name "*.pdf" -exe cp {} ./Downloads \;
+  315  cd Downloads
+  316  ls
+  317  cd ~
+  318  find -iname *.pdf
+  319  find ./Documents/ -name "*.pdf" -exec cp {} ./Downloads \;
+  320  cd Downloads
+  321  ls
+  322  L:my_bio.md
+  323  cd ~
+  324  ls
+  325  pwd
+  326  nano [option] /path/to/filename
+  327  nano my_bio.md
+  328  mkdir my_file
+  329  ls
+  330  rm -rf my_file
+  331  ls
+  332  mkdir my_files
+  333  mv my_bio.md  my_files
+  334  nano my_bio.md
+  335  ls
+  336  rm my_bio.md write out
+  337  rm -rf my_bio.md write out 
+  338  nano my_bio.md
+  339  ls
+  340  rm -rf my_bio.md write out 
+  341  ls
+  342  rm -rf 'my_bio.md write out' 
+  343  ls
+  344  mkdir my_files
+  345  mv my_bio.mf my_files
+  346  mv my_bio > my_files
+  347  cat my_files
+  348  mv my_bio ./myfiles
+  349  rm -rf my_files
+  350  touch my-files
+  351  rm -rf my_files
+  352  mv my_bio.md my-files
+  353  ls
+  354  rm -rf my-files
+  355  mkdir my_files
+  356  cd my_files
+  357  mv my_bio.md my_files
+  358  rm -rf my_files
+  359  cd 
+  360  ls
+  361  nano my_bio.md
+  362  ls
+  363  cat my_bio
+  364  cat my_bio.md
+  365  mkdir my_files
+  366  mv my_bio.md my_files
+  367  ls
+  368  cd my_files
+  369  ls
+  370  sudo add-apt-repository ppa:videolan/stable-daily
+  371  sudo apt-get update
+  372  sudo apt-get install vlc
+  373  mkdir git-basic-exercises
+  374  cd git-basic-exercises
+  375  ls -a
+  376  git init
+  377  ls -a
+  378  git status
+  379  touch README.md
+  380  ls -a
+  381  git status
+  382  git log
+  383  git add
+  384  git status
+  385  git add myUmuzi-linuxChallenges
+  386  git status
+  387  https://github.com/crespo21/myUmuzi-linuxChallenges.git
+  388  git clone
+  389  git clone https://github.com/crespo21/myUmuzi-linuxChallenges.git
+  390  cd myUmuzi-linuxChallenges
+  391  ls
+  392  git add *
+  393  git status
+  394  git commit -m "linuxChallenge"
+  395  git config --global user.email "tshepolesley21@gmail.com"
+  396  git config --global user.name "crespo21"
+  397  git commit -m "linuxChallenge"
+  398  git push 
+  399  mkdir git-basic-exercises
+  400  rm git-basic-exercises
+  401  rm -rf git-basic-exercises
+  402  mkdir git-basic-exercises
+  403  cd  git-basic-exercises
+  404  ls -a
+  405  git init 
+  406  ls -a
+  407  git status
+  408  touch README.md
+  409  ls -a
+  410  git status
+  411  git log
+  412  git add *
+  413  git status
+  414  git commit -m "initial commit"
+  415  git log
+  416  rm
+  417  cd 
+  418  rm git-basic-exercises$ 
+  419  rm -rf git-basic-exercises$ 
+  420  mkdir git-basic-exercises
+  421  cd git-basic-exercises
+  422  ls -a
+  423  rm -rf git-basic-exercises
+  424  cd ~
+  425  rm -rf git-basic-exercises
+  426  mkdir git-basic-exercises
+  427  ls -a
+  428  mkdir git-basic-exercises
+  429  cd  git-basic-exercises
+  430  ls -a
+  431  git init
+  432  ls -a
+  433  git status
+  434  touch README.md
+  435  ls -a
+  436  git status
+  437  git log
+  438  git add*
+  439  git status
+  440  git add
+  441  git status
+  442  git add *
+  443  git status
+  444  git staus
+  445  git rm --cached <README.md>..."
+  446  git commit -m "initial commit"
+  447  rm -rf git-basic-exercises
+  448  mkdir git-basic-exercises
+  449  cd git-basic-exercises
+  450  ls -a
+  451  git init
+  452  ls -a
+  453  git status
+  454  touch READM.md
+  455  ls -a
+  456  rm -rf READM.md
+  457  ls -a
+  458  touch README.md
+  459  gti status
+  460  git status
+  461  git add *
+  462  git status
+  463  git rm --cached <README.md>...
+  464  git rm --cached <README.md>
+  465  git rm --cached README.md
+  466  ls -a
+  467  git stauts
+  468  git status
+  469  git commit -m "initial commit"
+  470  git status
+  471  git commit -m "initial commit"
+  472  git add REAME.md
+  473  git add README.md
+  474  git commit -m "initial commit"
+  475  recruit@admin1-ThinkCentre-M72e:~/git-basic-exercises$ git add README.md
+  476  git log
+  477  q
+  478  sudo snap install q 
+  479  q
+  480  sudo snap install q  
+  481  sudo snap install "q"  
+  482  sudo apt  install python-q-text-as-data 
+  483  q
+  484  git log
+  485  nano README.md
+  486  cat README.md
+  487  git stats
+  488  git status
+  489  git add *
+  490  git status
+  491  git commit -m "second commit"
+  492  git checkout -- README.md
+  493  git status
+  494  git add *
+  495  git status
+  496  git add README.md
+  497  ls -a
+  498  git status
+  499  nano README.md
+  500  cat README.md
+  501  git status
+  502  git log
+  503  git add .
+  504  git commit -m "third commit"
+  505  git log 
+  506  git log
+  507  q
+  508  git checkout 30329de4739a40179cec001f657f36d5c6e57c6b
+  509  cat README.md 
+  510  git checkout master
+  511  cat README.md 
+  512  git brach
+  513  git branch
+  514  git status
+  515  git branch milkshake-flavours
+  516  git branch 
+  517  git branch
+  518  git check out milkshake-flavours
+  519  git checkout milkshake-flavours
+  520  git status
+  521  git branch
+  522  git branch isKing
+  523  git branch i
+  524  git branch 
+  525  git checkout isKing
+  526  git branch
+  527  git checkout i
+  528  git branch
+  529  git checkout mil
+  530  nano milkshakes.md
+  531  git status
+  532  git commit -m "added initial flavours"
+  533  git add .
+  534  git commit -m "added initial flavours"
+  535  git log
+  536  git checkout master
+  537  git branch
+  538  git branch history
+  539  git checkout history
+  540  git log
+  541  history > history.txt
+  542  ls
+  543  ls /history
+  544  ls ./history
+  545  cd 
+  546  cd history
+  547  ls
+  548  cdgit-basic-exercises$ 
+  549  cd git-basic-exercises$ 
+  550  mkdir git-basic-exercises$ 
+  551  cd git-basic-exercises$ 
+  552  ls -a
+  553  ls 
+  554  git     initial commit
+  555  recruit@admin1-ThinkCentre-M72e:~/git-basic-exercises$ history > history.txt
+  556  git checkout master
+  557  git --help
+  558  git commit -m "added history"
+  559  git log
+  560  rest HEAD history.txt
+  561  reset HEAD history.txt
+  562  git add .
+  563  git commit -m "added history"
+  564  git log
+  565  -e ch
+  566  sudo nano /etc/crontab
+  567  shutdown now
+  568  ls
+  569  mkdir git-basic-exercises
+  570  rm -rf git-basic-exercise
+  571  ls
+  572  mkdir git-basic-exercises
+  573  cd git-basic-exercises
+  574  cd ~
+  575  cd git-basic-exercises
+  576  mkdfir git-basic-exercises
+  577  mkdir git-basic-exercises
+  578  cd git-basic-exercises
+  579  ls -a
+  580  gti init
+  581  git init
+  582  ls -a
+  583  git status
+  584  touch README.md
+  585  ls -a
+  586  git status
+  587  git add *
+  588  gti status
+  589  git status
+  590  git rm --cached README.md
+  591  gti add README.md
+  592  git add README.md
+  593  git commit "initial commit"
+  594  git -m commit "initial commit"
+  595  git commit -m "intial commit" 
+  596  gti log
+  597  git log
+  598  nano README.md
+  599  cat README.md
+  600  gti status
+  601  git status
+  602  git commit -m "second commit"
+  603  git log
+  604  git add .
+  605  git comit -m "third commit"
+  606  git log
+  607  git reset HEAD
+  608  cat README.md
+  609  git satus
+  610  gti status
+  611  git status
+  612  git commit -m "second commit"
+  613  git log
+  614  git add .
+  615  git commit -m "third commit"
+  616  git log
+  617  gti reset HEAD
+  618  cat RAEDME.md
+  619  cat README.md
+  620  git status
+  621  git add .
+  622  git commit -m "second commit"
+  623  git log
+  624  git add . 
+  625  git commit -m "third commit
+  626  git log
+  627  ls
+  628  mkdir gti-basic-exercises
+  629  cd
+  630  cd gti-basic-exercises
+  631  ls
+  632  ls -a
+  633  git init
+  634  ls -a
+  635  git status
+  636  touch README.md
+  637  ls -a
+  638  git status
+  639  git log
+  640  git ad *
+  641  git add*
+  642  git add *
+  643  git status
+  644  rm --cached README.md
+  645  git rm --cached README.md
+  646  gti add *
+  647  git add *
+  648  git commit -m "initial commit"
+  649  git log
+  650  nano README.md
+  651  cat README.me
+  652  cat README.md
+  653  git status
+  654  git add *
+  655  git commit -m "second commit"
+  656  git log
+  657  git add *
+  658  git commit -m "third commit"
+  659  git log
+  660  git reset HEAD
+  661  cat RAEDME.me
+  662  git status
+  663  gti add .
+  664  git add .
+  665  git commit -m "second commit"
+  666  git log
+  667  git add .
+  668  git commit -m "third commit"
+  669  git rm -cached README.md
+  670  git rm --cached README.md
+  671  gti add .
+  672  git add .
+  673  git commit -m "third commit"
+  674  git log
+  675  git add *
+  676  git commit -m "third commit"
+  677  git status
+  678  nano README.md
+  679  cat README.md
+  680  git status
+  681  git add .
+  682  git commit -m "third commit"
+  683  git log
+  684  q
+  685  git checkout 971048e4d497a8446e19f1821167dda43d903015
+  686  git checkout
+  687  971048e4d497a8446e19f1821167dda43d903015
+  688  cat README.md
+  689  gti checkout master
+  690  git checkout master
+  691  cat README.md
+  692  git branch
+  693  git milkshake-flavours
+  694  git branch  milkshake-flavours
+  695  git branch
+  696  checkout milkshake-flavours
+  697  git checkout milkshake-flavours
+  698  git branch
+  699  git branch brave
+  700  git checkout brave
+  701  git branch
+  702  git checkout milkshake-flaviours
+  703  git checkout milkshake-flavours
+  704  git branch
+  705  nano milkshake-flavours
+  706  git status
+  707  git add .
+  708  rm --cached milkshake-flavours
+  709  git rm --cached milkshake-flavours
+  710  nano milkshakes.md
+  711  git status
+  712  git add .
+  713  git commit -m "added initial flavours"
+  714  git log
+  715  git checkout master
+  716  git branch
+  717  git branch history
+  718  git checkout history
+  719  git log
+  720  history > history.txt
